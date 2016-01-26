@@ -6,7 +6,7 @@ This is sample microservices mediation server written using Apache Camel.
 1. Compile camel-sample-web project, this contains a sample HTTP endpoint:
 
     ````
-    git clone https://github.com/imesh/micromediation.git
+    git clone https://github.com/imesh/microservices-mediation-server.git
     cd camel-sample-web
     mvn clean install
     ````
