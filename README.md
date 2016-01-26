@@ -1,6 +1,6 @@
-# A Sample Micromediation Server
+# Microservices Mediation Server
 
-This is sample micro-mediation server written using Apache Camel.
+This is sample microservices mediation server written using Apache Camel.
 
 ## How to run
 1. Compile camel-sample-web project, this contains a sample HTTP endpoint:
